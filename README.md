@@ -3,7 +3,7 @@
 ##This is my test file to learn how to code
 ------------------------
 
-Know i try to learn the markdown:
+Now i try to learn the markdown:
 
 1. list item 1.
 2. *list item 2.*
