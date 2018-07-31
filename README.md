@@ -1,6 +1,6 @@
 #myapp
 ------------------------
-##This is my test file to learn how to code
+##This is my test file to learn how to code and how to use a git
 ------------------------
 
 Now i try to learn the markdown:
